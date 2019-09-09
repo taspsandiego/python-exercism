@@ -1,0 +1,17 @@
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Bb]uild/
+
+# Exercism Folders
+.exercism/
+
+# Test Folders
+[Tt]est/
+
+#Python Folders
+__pycache__/
+.pytest_cache/
